@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "XiirTaM",
-      "address": "https://ani.xiirtam.fr"
+      "address": "https://xiirtam-anisette-v3-server.onrender.com"
     }
   ]
 }
